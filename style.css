@@ -5,6 +5,6 @@
 .navbar-brand {
   background-color: rgb(86, 207, 177);
 }
-/* .navbar-nav {
-  float: right;
-} */
+.navbar-nav {
+  margin-left: 90pc;
+}
