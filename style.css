@@ -1,0 +1,10 @@
+* {
+  margin: 5px;
+  background-color: whitesmoke;
+}
+.navbar-brand {
+  background-color: rgb(86, 207, 177);
+}
+/* .navbar-nav {
+  float: right;
+} */
