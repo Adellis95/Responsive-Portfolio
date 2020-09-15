@@ -6,5 +6,5 @@
   background-color: rgb(86, 207, 177);
 }
 .navbar-nav {
-  margin-left: 90pc;
+  /* margin-left: 90pc; THIS WONT WORK ON SMALLER SCREENS */
 }
