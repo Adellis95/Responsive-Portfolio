@@ -1,10 +1,8 @@
 * {
-  margin: 5px;
+  /* margin: 5px; */
   background-color: whitesmoke;
 }
-.navbar-brand {
+.navbar-light .navbar-brand {
   background-color: rgb(86, 207, 177);
-}
-.navbar-nav {
-  /* margin-left: 90pc; THIS WONT WORK ON SMALLER SCREENS */
+  color: white;
 }

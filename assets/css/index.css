@@ -1,0 +1,12 @@
+.container {
+  margin-top: 20px;
+}
+.about-me-img {
+  float: left;
+  margin-right: 5px;
+  /* max-width: 200px;
+  min-width: 200px; */
+}
+p {
+  text-align: justify;
+}
