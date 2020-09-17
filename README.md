@@ -6,11 +6,16 @@ This is project was designed to replicate provided examples of a Portfolio with 
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Minimum_Requirements](#minimum_requirements)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+
+## Screenshots
+
+![Responsive-Portfolio_Webpage]
 
 ## Installation
 
@@ -46,7 +51,7 @@ words
 
 ## Credits
 
-words
+- https://github.com/GaTech55 David Brown for helping me with Prettier not working
 
 ## License
 
