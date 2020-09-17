@@ -1,6 +1,6 @@
-* {
+body {
   /* margin: 5px; */
-  background-color: whitesmoke;
+  background-color: rgb(185, 185, 185);
 }
 .navbar-light .navbar-brand {
   background-color: rgb(86, 207, 177);
