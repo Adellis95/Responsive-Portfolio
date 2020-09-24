@@ -5,6 +5,8 @@
 .about-me-img {
   float: left;
   margin-right: 15px;
+  max-width: 350px;
+  max-height: 350px;
 }
 p {
   text-align: justify;

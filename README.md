@@ -2,11 +2,11 @@
 
 ## Description
 
-This is project was designed to replicate provided examples of a Portfolio with a contact, about me, and and have the webpage's applications to be responsive.
+This is project was designed to replicate provided examples of a Portfolio with a contact, about me, and a portfolio with images of me. This project's focus is to have the webpage's applications to be responsive by having the layout respond to the size of the screen. This project taught me how to create a website that would work on multiple size screens like: tablets, smartphones, and small laptops which is essential for webpage accessibility.
 
 ## Table of Contents
 
-- [Screenshots](#screenshots)
+- [Screenrecord](#screenrecord)
 - [Installation](#installation)
 - [Minimum_Requirements](#minimum_requirements)
 - [Usage](#usage)
@@ -15,7 +15,7 @@ This is project was designed to replicate provided examples of a Portfolio with 
 
 ## Screenshots
 
-![Responsive-Portfolio_Webpage]
+Demo for responsiveness:
 
 ## Installation
 

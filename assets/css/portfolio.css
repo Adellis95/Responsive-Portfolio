@@ -2,25 +2,11 @@
   float: left;
   margin-left: 50px;
 }
-/* .pull-left {
-  margin: 10px;
-} */
-/* .img-fluid {
-  padding-bottom: 20px;
-} */
-.kitten-image {
+
+.portfolio-image {
   position: relative;
   margin: 20px;
-  /* width: 33.33%; */
-  /* max-width: 350px;
-  min-width: 350px; */
   float: left;
-  /* padding-left: 10px; */
-  /* padding-bottom: 25px; */
+  max-width: 350px;
+  max-height: 350px;
 }
-
-/* @media screen and (max-width: 350px) {
-  .col-sm-6 {
-    width: 100%;
-  }
-} */
